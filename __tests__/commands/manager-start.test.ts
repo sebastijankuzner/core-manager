@@ -26,7 +26,7 @@ describe("StartCommand", () => {
 
         expect(spyStart).toHaveBeenCalledWith(
             {
-                args: "manager:run --token=ark --network=testnet --v=0 --env=production",
+                args: "manager:run --token='ark' --network='testnet' --v=0 --env='production'",
                 env: {
                     CORE_ENV: "production",
                     NODE_ENV: "production",
