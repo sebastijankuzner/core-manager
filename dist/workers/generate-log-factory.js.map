@@ -1,0 +1,1 @@
+{"version":3,"file":"generate-log-factory.js","sourceRoot":"","sources":["../../src/workers/generate-log-factory.ts"],"names":[],"mappings":";;;AACA,uDAAkD;AAClD,yDAAoD;AAEvC,QAAA,kBAAkB,GAAmC,CAAC,OAAO,EAAE,EAAE;IAC1E,IAAI,OAAO,CAAC,aAAa,KAAK,IAAI,EAAE;QAChC,OAAO,IAAI,+BAAa,CAAC,OAAO,CAAC,CAAC;KACrC;IAED,OAAO,IAAI,iCAAc,CAAC,OAAO,CAAC,CAAC;AACvC,CAAC,CAAC"}
