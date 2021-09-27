@@ -50,9 +50,6 @@ package-lock.json
 .tags
 bundle.min.js
 
-# Build
-dist
-
 # Microsoft Visual Studio settings
 .vs
 
